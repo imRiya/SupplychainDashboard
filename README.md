@@ -1,5 +1,7 @@
 # SupplychainDashboard
-Project Title: Supply Chain Management Dashboard Development & Analysis
+
+Project Title:  Supply Chain Management Dashboard Development & Analysis
+
 Descriptive Analysis:
 Performed data aggregation of 46K products sold across multiple suppliers and regions to generate key metrics like average price, total revenue, and product sales by type (skincare, haircare, cosmetics).
 Visualized manufacturing lead times, production volumes, location-based lead times, and revenue distribution across different cities (Mumbai, Kolkata, Chennai, Bangalore, Delhi) to identify high-traffic regions.
