@@ -1,4 +1,4 @@
-# SupplychainDashboard
+# Supply Chain Management Dashboard
 
 Project Title:  Supply Chain Management Dashboard Development & Analysis
 
